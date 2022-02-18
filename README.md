@@ -51,4 +51,10 @@
 
 
 
+# Please refer to the Documentations 
+
+
+![MDN_Web_Docs svg](https://user-images.githubusercontent.com/34340232/154776215-447fc1a6-daa4-4448-9015-00160a26614d.png)
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce]
 
